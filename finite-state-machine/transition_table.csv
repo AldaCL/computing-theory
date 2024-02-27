@@ -1,0 +1,8 @@
+﻿state,number,.,E,+,-,eos
+1,2,error,error,error,error,error
+2,2,3,5,error,error,error
+3,4,error,error,error,error,error
+4,4,error,5,error,error,accept
+5,7,error,error,6,6,error
+6,7,error,error,error,error,error
+7,7,error,error,error,error,accept
