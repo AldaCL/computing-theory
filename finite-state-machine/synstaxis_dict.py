@@ -6,5 +6,3 @@ The rows of the DataFrame represent the states of the DFA
 The transition table is used to determine if a given string is accepted by the DFA
 The string is read from a file and the result of the lexical analysis is printed to the console
 """
-
-number = 
